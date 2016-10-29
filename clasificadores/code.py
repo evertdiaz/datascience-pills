@@ -12,7 +12,7 @@ y = ['male', 'male', 'male', 'male', 'male',
  	 'male', 'male', 'male', 'male', 'male',
  	 'female', 'female', 'female', 'female', 'female']
 # data de muestra para prediccion
-muestra = [[160,50,38]]
+muestra = [[150,45,37]]
 
 # modelo de clasicicacion de arbol de decision
 clf = tree.DecisionTreeClassifier()
